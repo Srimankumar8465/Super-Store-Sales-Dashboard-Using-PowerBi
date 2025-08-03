@@ -24,4 +24,9 @@ I developed an interactive Power BI dashboard using Super Store sales data to un
 ## Dashboard:
 <img width="1418" height="797" alt="Screenshot 2025-08-03 135424" src="https://github.com/user-attachments/assets/bec4b2ea-f6b1-4c52-a3ac-c505b90a3e62" />
 <img width="1416" height="800" alt="Screenshot 2025-08-03 135446" src="https://github.com/user-attachments/assets/2adbb513-e41f-4d5f-b1cb-3d51049604b0" />
+## Final Conclusion.  
+This Power BI dashboard successfully delivers a comprehensive view of sales performance. It demonstrates how raw sales data can be transformed into meaningful business intelligence. With clear visuals, dynamic filters, and forecasting, it empowers decision-makers to identify growth opportunities, reduce operational delays, and plan for the future with confidence.
+
+
+
 
