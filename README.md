@@ -6,7 +6,19 @@ I developed an interactive Power BI dashboard using Super Store sales data to un
 ## Process
 This project follows a structured process to build a professional and insightful sales dashboard using Power BI:
 -Project Objective
-
+-Import Data in Power BI
+Data Cleaning & Processing
+Power Query Editor in Power BI
+DAX in Power BI
+Measures and Calculations
+Create New Columns and Tables
+Advanced Charts and Maps
+Filters and Slicers
+Dashboard Design in Power BI
+Forecasting in Power BI
+Power BI Sales Forecast
+Export Power BI Dashboard
+Insights from Dashboard
 
 
 
