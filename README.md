@@ -23,3 +23,5 @@ I developed an interactive Power BI dashboard using Super Store sales data to un
 
 ## Dashboard:
 (https://github.com/Srimankumar8465/Super-Store-Sales-Dashboard-Using-PowerBi/blob/main/Screenshot%202025-08-03%20135424.png)
+
+<img width="1418" height="797" alt="Screenshot 2025-08-03 135424" src="https://github.com/user-attachments/assets/bec4b2ea-f6b1-4c52-a3ac-c505b90a3e62" />
