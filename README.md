@@ -22,4 +22,4 @@ I developed an interactive Power BI dashboard using Super Store sales data to un
 -<a href="https://github.com/Srimankumar8465/Super-Store-Sales-Dashboard-Using-PowerBi/blob/d3c9f78822611fa799d95d9f6ece686467e7c1a9/super%20store%20sales%20dashboard.pdf">Dashboard</a>
 
 ## Dashboard:
-https://github.com/Srimankumar8465/Super-Store-Sales-Dashboard-Using-PowerBi/blob/main/Screenshot%202025-08-03%20135424.png
+(https://github.com/Srimankumar8465/Super-Store-Sales-Dashboard-Using-PowerBi/blob/main/Screenshot%202025-08-03%20135424.png)
